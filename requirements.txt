@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+nltk==3.8.1
+scikit-learn
+lightgbm
+pandas
+numpy
+plotly
+python-dotenv
+Pillow
+openai
+textstat
+python-docx 
